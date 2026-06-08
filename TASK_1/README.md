@@ -145,3 +145,5 @@ gbr = GradientBoostingRegressor(
 - Try `XGBoost` or `LightGBM` for further performance gains
 - Add polynomial features or interaction terms for Linear Regression
 - Deploy the model as a simple web app using `Streamlit` or `Flask`
+
+  # Author:Durga Charan
